@@ -179,4 +179,4 @@ You can see how lines of code grew over time - massive spikes were unrolling BFS
 
 # In Sum
 
-To wrap up, Battlecode was a great experience and it was a lot of fun. I would do it again in the future and I'd encourage all active students to participate if they can over their winter breaks. I learned about 10x more than I detailed here, but this is getting pretty long at this point.
+To wrap up, Battlecode was a great experience and it was a lot of fun. I would do it again in the future and I'd encourage all active students to participate if they can over their winter breaks. I learned about 10x more than I detailed here, but this is getting pretty long at this point. Thanks to MIT and Teh Devs for creating a fun competition.
