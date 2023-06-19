@@ -1,6 +1,6 @@
 # Battlecode-Bot
 
-This repo contains my final submission for [MIT's 2022 Battlecode Programming Competition](https://battlecode.org/). This readme presents a post-mortem of the project.
+This repo contains my final submission for [MIT's Battlecode Programming Competition](https://battlecode.org/). This readme presents a post-mortem of the project.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/78166995/150421412-f986ad0c-d888-42f7-9374-cf5b90499239.PNG">
